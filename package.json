@@ -1,0 +1,11 @@
+{
+  "name": "calculi",
+  "version": "1.0.0",
+  "description": "A small JavaScript library that lets you use calculus in your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edgar Jr San Martin",
+  "license": "ISC"
+}
